@@ -46,14 +46,17 @@ A MongoDB container can be setup with Docker a if portable DB is preferred.
 
 For the question: Does the month impact the species caught throughout the year? The findings suggest that it does for the pelagic landings. The investigation looked at data for individual years and combinations. 
 
-    The result showed that Shellfish and Demersal remained within similar monthly ebbs and flow. This suggest that month does not impact the landings greatly for these. 
+    The result showed that Shellfish and Demersal remained within similar monthly ebbs and flow. 
+    This suggest that month does not impact the landings greatly for these. 
 
-    However the Pelagic landings seems to depend on the month. May, June and December had the lowest landings, recommending that these are the worst time to fish.  
+    However the Pelagic landings seems to depend on the month. May, June and December had the 
+    lowest landings, recommending that these are the worst time to fish.  
 
 
 For the question: Do administrative ports with similar vessels land similar species groups? The findings suggest that it does. The investigation analysed and visualised clusters and produced a descriptive map.
 
-    It showed close grouping in cluster 0. It confirmed and presented on a map that vessels a little over 10m were likely to produce the same average quantity of landings at each port. 
+    It showed close grouping in cluster 0. It confirmed and presented on a map that vessels 
+    a little over 10m were likely to produce the same average quantity of landings at each port. 
 
 NOTE: A descriptive written report is available for review on request.
 
