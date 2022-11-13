@@ -55,8 +55,8 @@ For the question: Does the month impact the species caught throughout the year? 
 
 For the question: Do administrative ports with similar vessels land similar species groups? The findings suggest that it does. The investigation analysed and visualised clusters and produced a descriptive map.
 
-    It showed close grouping in cluster 0. It confirmed and presented on a map that vessels 
-    a little over 10m were likely to produce the same average quantity of landings at each port. 
+    It showed close grouping in cluster 0. It confirmed and presented on a map that vessels a 
+    little over 10m were likely to produce the same average quantity of landings at each port. 
 
 NOTE: A descriptive written report is available for review on request.
 
