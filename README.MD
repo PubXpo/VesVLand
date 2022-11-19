@@ -40,7 +40,7 @@ The two datasets will consider two questions. First: Does the month impact the s
 - **Python** 3.0+
 - **MongoDB**
 
-A MongoDB container can be setup with Docker a if portable DB is preferred.
+A MongoDB container can be setup with Docker if a portable DB is preferred.
 
 ## Findings
 
